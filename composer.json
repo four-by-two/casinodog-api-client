@@ -1,5 +1,6 @@
 {
     "name": "wainwright-dev/casinodog-api-client",
+    "version": "1.0.1",
     "description": "Operator API package to communicate with master api.",
     "keywords": [
         "Wainwright",
